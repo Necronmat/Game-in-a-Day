@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GameInADay-0946.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Advance Games\Game in a Day\GameInADay\Intermediate\Build\Win64\GameInADayEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Advance Games\Game in a Day\GameInADay\Intermediate\Build\Win64\UnrealEditor\Development\GameInADay\Board.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Advance Games\Game in a Day\GameInADay\Intermediate\Build\Win64\UnrealEditor\Development\GameInADay\Camera.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Advance Games\Game in a Day\GameInADay\Intermediate\Build\Win64\UnrealEditor\Development\GameInADay\ChessPiece.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Advance Games\Game in a Day\GameInADay\Intermediate\Build\Win64\UnrealEditor\Development\GameInADay\GameInADay.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Advance Games\Game in a Day\GameInADay\Intermediate\Build\Win64\UnrealEditor\Development\GameInADay\GameInADayGameModeBase.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Advance Games\Game in a Day\GameInADay\Intermediate\Build\Win64\UnrealEditor\Development\GameInADay\PlayerCamera.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Advance Games\Game in a Day\GameInADay\Intermediate\Build\Win64\UnrealEditor\Development\GameInADay\Space.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Advance Games\Game in a Day\GameInADay\Intermediate\Build\Win64\UnrealEditor\Development\GameInADay\Board.gen.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Advance Games\Game in a Day\GameInADay\Intermediate\Build\Win64\UnrealEditor\Development\GameInADay\Camera.gen.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Advance Games\Game in a Day\GameInADay\Intermediate\Build\Win64\UnrealEditor\Development\GameInADay\ChessPiece.gen.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Advance Games\Game in a Day\GameInADay\Intermediate\Build\Win64\UnrealEditor\Development\GameInADay\GameInADay.init.gen.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Advance Games\Game in a Day\GameInADay\Intermediate\Build\Win64\UnrealEditor\Development\GameInADay\GameInADayGameModeBase.gen.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Advance Games\Game in a Day\GameInADay\Intermediate\Build\Win64\UnrealEditor\Development\GameInADay\PlayerCamera.gen.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Advance Games\Game in a Day\GameInADay\Intermediate\Build\Win64\UnrealEditor\Development\GameInADay\Space.gen.cpp.obj"
+"C:\Users\User\Desktop\Uni work\UClan-Masters\Advance Games\Game in a Day\GameInADay\Intermediate\Build\Win64\UnrealEditor\Development\GameInADay\Default.rc2.res"
+/OUT:"C:\Users\User\Desktop\Uni work\UClan-Masters\Advance Games\Game in a Day\GameInADay\Intermediate\Build\Win64\UnrealEditor\Development\GameInADay\UnrealEditor-GameInADay-0946.lib"

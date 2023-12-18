@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\desktop\\uni work\\uclan-masters\\advance games\\game in a day\\gameinaday\\source\\gameinaday\\space.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\desktop\\uni work\\uclan-masters\\advance games\\game in a day\\gameinaday\\intermediate\\build\\win64\\gameinadayeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\user\\desktop\\uni work\\uclan-masters\\advance games\\game in a day\\gameinaday\\intermediate\\build\\win64\\unrealeditor\\development\\gameinaday\\definitions.gameinaday.h",
+            "c:\\users\\user\\desktop\\uni work\\uclan-masters\\advance games\\game in a day\\gameinaday\\source\\gameinaday\\space.h",
+            "c:\\users\\user\\desktop\\uni work\\uclan-masters\\advance games\\game in a day\\gameinaday\\source\\gameinaday\\chesspiece.h",
+            "c:\\users\\user\\desktop\\uni work\\uclan-masters\\advance games\\game in a day\\gameinaday\\intermediate\\build\\win64\\unrealeditor\\inc\\gameinaday\\chesspiece.generated.h",
+            "c:\\users\\user\\desktop\\uni work\\uclan-masters\\advance games\\game in a day\\gameinaday\\intermediate\\build\\win64\\unrealeditor\\inc\\gameinaday\\space.generated.h",
+            "c:\\users\\user\\desktop\\uni work\\uclan-masters\\advance games\\game in a day\\gameinaday\\source\\gameinaday\\gameinadaygamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\user\\desktop\\uni work\\uclan-masters\\advance games\\game in a day\\gameinaday\\source\\gameinaday\\board.h",
+            "c:\\users\\user\\desktop\\uni work\\uclan-masters\\advance games\\game in a day\\gameinaday\\intermediate\\build\\win64\\unrealeditor\\inc\\gameinaday\\board.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\kismetsystemlibrary.generated.h",
+            "c:\\users\\user\\desktop\\uni work\\uclan-masters\\advance games\\game in a day\\gameinaday\\intermediate\\build\\win64\\unrealeditor\\inc\\gameinaday\\gameinadaygamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,16 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\User\AppData\Local\UnrealBuildTool\Log.txt
+  Building GameInADayEditor...
+  Using Visual Studio 2022 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from GameInADay unity file: Board.cpp, Camera.cpp, ChessPiece.cpp, GameInADay.cpp, GameInADayGameModeBase.cpp, PlayerCamera.cpp, Space.cpp
+  Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+    Executing up to 8 processes, one per physical core
+  Building 4 actions with 4 processes...
+  [1/4] Compile Camera.cpp
+  [2/4] Link UnrealEditor-GameInADay-0005.lib
+     Creating library C:\Users\User\Desktop\Uni work\UClan-Masters\Advance Games\Game in a Day\GameInADay\Intermediate\Build\Win64\UnrealEditor\Development\GameInADay\UnrealEditor-GameInADay-0005.lib and object C:\Users\User\Desktop\Uni work\UClan-Masters\Advance Games\Game in a Day\GameInADay\Intermediate\Build\Win64\UnrealEditor\Development\GameInADay\UnrealEditor-GameInADay-0005.exp
+  [3/4] Link UnrealEditor-GameInADay-0005.dll
+     Creating library C:\Users\User\Desktop\Uni work\UClan-Masters\Advance Games\Game in a Day\GameInADay\Intermediate\Build\Win64\UnrealEditor\Development\GameInADay\UnrealEditor-GameInADay-0005.suppressed.lib and object C:\Users\User\Desktop\Uni work\UClan-Masters\Advance Games\Game in a Day\GameInADay\Intermediate\Build\Win64\UnrealEditor\Development\GameInADay\UnrealEditor-GameInADay-0005.suppressed.exp
+  [4/4] WriteMetadata GameInADayEditor.target
+  Total time in Parallel executor: 1.25 seconds
+  Total execution time: 1.89 seconds

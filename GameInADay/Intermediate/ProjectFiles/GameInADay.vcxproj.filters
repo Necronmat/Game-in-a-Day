@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GameInADay.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GameInADay.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GameInADayEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\GameInADay">
+      <UniqueIdentifier>{A5A69839-CC70-3DC0-B9F0-01C88B48ACAF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GameInADay\Board.cpp">
+      <Filter>Source\GameInADay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameInADay\Board.h">
+      <Filter>Source\GameInADay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameInADay\Camera.cpp">
+      <Filter>Source\GameInADay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameInADay\Camera.h">
+      <Filter>Source\GameInADay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameInADay\ChessPiece.cpp">
+      <Filter>Source\GameInADay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameInADay\ChessPiece.h">
+      <Filter>Source\GameInADay</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\GameInADay\GameInADay.Build.cs">
+      <Filter>Source\GameInADay</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GameInADay\GameInADay.cpp">
+      <Filter>Source\GameInADay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameInADay\GameInADay.h">
+      <Filter>Source\GameInADay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameInADay\GameInADayGameModeBase.cpp">
+      <Filter>Source\GameInADay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameInADay\GameInADayGameModeBase.h">
+      <Filter>Source\GameInADay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameInADay\PlayerCamera.cpp">
+      <Filter>Source\GameInADay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameInADay\PlayerCamera.h">
+      <Filter>Source\GameInADay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GameInADay\Space.cpp">
+      <Filter>Source\GameInADay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GameInADay\Space.h">
+      <Filter>Source\GameInADay</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\desktop\\uni work\\uclan-masters\\advance games\\game in a day\\gameinaday\\intermediate\\build\\win64\\unrealeditor\\inc\\gameinaday\\uht\\space.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\desktop\\uni work\\uclan-masters\\advance games\\game in a day\\gameinaday\\intermediate\\build\\win64\\x64\\gameinadayeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\user\\desktop\\uni work\\uclan-masters\\advance games\\game in a day\\gameinaday\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gameinaday\\definitions.gameinaday.h",
+            "c:\\users\\user\\desktop\\uni work\\uclan-masters\\advance games\\game in a day\\gameinaday\\source\\gameinaday\\space.h",
+            "c:\\users\\user\\desktop\\uni work\\uclan-masters\\advance games\\game in a day\\gameinaday\\source\\gameinaday\\chesspiece.h",
+            "c:\\users\\user\\desktop\\uni work\\uclan-masters\\advance games\\game in a day\\gameinaday\\intermediate\\build\\win64\\unrealeditor\\inc\\gameinaday\\uht\\chesspiece.generated.h",
+            "c:\\users\\user\\desktop\\uni work\\uclan-masters\\advance games\\game in a day\\gameinaday\\intermediate\\build\\win64\\unrealeditor\\inc\\gameinaday\\uht\\space.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

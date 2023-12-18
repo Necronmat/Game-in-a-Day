@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\desktop\\uni work\\uclan-masters\\advance games\\game in a day\\gameinaday\\intermediate\\build\\win64\\unrealeditor\\inc\\gameinaday\\gameinaday.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\desktop\\uni work\\uclan-masters\\advance games\\game in a day\\gameinaday\\intermediate\\build\\win64\\gameinadayeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\user\\desktop\\uni work\\uclan-masters\\advance games\\game in a day\\gameinaday\\intermediate\\build\\win64\\unrealeditor\\development\\gameinaday\\definitions.gameinaday.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

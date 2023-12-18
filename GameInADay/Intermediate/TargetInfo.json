@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GameInADay",
+			"Path": "C:\\Users\\User\\Desktop\\Uni work\\UClan-Masters\\Advance Games\\Game in a Day\\GameInADay\\Source\\GameInADay.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GameInADayEditor",
+			"Path": "C:\\Users\\User\\Desktop\\Uni work\\UClan-Masters\\Advance Games\\Game in a Day\\GameInADay\\Source\\GameInADayEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
